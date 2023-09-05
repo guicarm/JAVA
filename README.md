@@ -10,5 +10,5 @@ ________________________________________________________________________________
 * Métodos construtores
 * Métodos worker
 * Vetores e Lista
-* Camada de conexão (SQL server)
+* Camada de conexão (DAO)
 * Camada de tratamento de erro (Exceptions)

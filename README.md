@@ -12,3 +12,4 @@ ________________________________________________________________________________
 * Vetores e Lista
 * Camada de conexão (SQL server)
 * Camada de tratamento de erro (Exceptions)
+* CRUD (Create, Read, Update, Delete)
